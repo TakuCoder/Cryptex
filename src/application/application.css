@@ -1,0 +1,42 @@
+.button-raised{
+    -fx-padding: 0.7em 0.57em;
+    -fx-font-size: 12px;
+    -jfx-button-type: RAISED;
+    -fx-background-color: rgb(77,102,204);
+    -fx-pref-width: 200;
+    -fx-text-fill: WHITE;
+}
+
+.buttonok{
+    -fx-padding: 0.7em 0.57em;
+    -fx-font-size: 12px;
+    -jfx-button-type: RAISED;
+    -fx-background-color: #43A047;
+    -fx-pref-width: 200;
+    -fx-text-fill: WHITE;
+}
+.label
+{
+	
+	-fx-font-size: 16;
+	-fx-font-weight: bold;
+	
+	
+}
+
+.root{
+	
+ -fx-font-family: Roboto-Black;
+	 src: "/Roboto-Roboto-Black.ttf";
+	
+}
+.textfield
+{
+	
+	-fx-font-size: 16;
+	-fx-font-weight: bold;
+	
+-jfx-label-float :true;
+	
+	
+}
